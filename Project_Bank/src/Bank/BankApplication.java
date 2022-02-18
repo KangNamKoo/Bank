@@ -1,7 +1,6 @@
 package Bank;
 
 import java.util.Scanner;
-import Bank.Account;
 
 public class BankApplication {
 	
