@@ -1,10 +1,10 @@
 package Bank;
 
 import java.util.Scanner;
+import Bank.Account;
 
 public class BankApplication {
 	
-	Account account = new Account(null, null, 0);
 	
 	private static Account[] accountArray = new Account[100];
 	private static Scanner scanner = new Scanner(System.in);
