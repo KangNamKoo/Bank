@@ -1,7 +1,8 @@
 package Bank;
 
 import java.util.Scanner;
-import java.lang.*;
+import Bank.Account;
+
 public class BankApplication {
 	
 	private static Account[] accountArray = new Account[100];
